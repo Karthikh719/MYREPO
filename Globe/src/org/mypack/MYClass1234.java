@@ -4,7 +4,7 @@ public class MYClass1234 {
 
 	public static void main(String[] args) {
 		System.out.println("in main method");
-        System.out.println("22");
+        System.out.println("28");
 	}
 
 }
